@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuessTheLogo</string>
+    <string name="new_game">New game</string>
+    <string name="highscore">Highscore</string>
+    <string name="guess">Guess</string>
+    <string name="score">Score: </string>
+    <string name="share">Share</string>
+    <string name="app_logo">app_logo</string>
+    <string name="highscore_pic">highscore_pic</string>
+    <string name="_0">0</string>
+    <string name="your_score_0">Your Score: 0</string>
+</resources>
